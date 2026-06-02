@@ -1,5 +1,3 @@
-<img width="800" height="450" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/6d30951f-296e-4553-850b-afd2a88ddfde" />
-
 # Advanced-Clan-System-Premium-Skript
 
 <img width="1024" height="512" alt="Advanced Clans Thumbnail" src="https://github.com/user-attachments/assets/b2cb9cb6-83e5-44c7-a822-56d2c43db6b2" />
@@ -49,8 +47,6 @@ Players earn Activity Points (Personal Wallet) for participating in events. (als
 The Members menu doesn't just show who is online. It features:  
 Top Contributors (Right): Top 12 members who grinded the most in the current Weekly Event.  
 Top Donators (Left): Top 12 members who have converted the most personal points into Clan Points.  
-
-
 
 <img width="800" height="450" alt="2026-06-0218-53-03-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/68d6ab3c-41ba-44db-964c-cbd8adeed711" />
 <img width="800" height="450" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/938fd29a-0018-495d-afe1-cc465071535f" />
