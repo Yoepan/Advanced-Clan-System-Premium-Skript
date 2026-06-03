@@ -107,7 +107,7 @@ Lv 10 (MAX): Celestial Bloodlust (15% Lifesteal, $10 Kill Bonus, 2x XP).
 /clan setting - Change Tags, Rules, and Friendly Fire.  
 /clan broadcast <msg> - Send a massive Title/Subtitle alert to all members.  
 /cc <msg> - Private Clan Chat.  
-/clan invite/accept/leave/kick/promote/demote/transfer - Social Management.  
+/clan invite/accept/deny/leave/kick/promote/demote/transfer - Social Management.  
 
 🔸 Admin Commands (Permission: clan.admin)  
 /clanadmin spy <clan> - Secretly view a clan's level, points, active buffs, and the personal wallets/ranks of every member inside it!  
@@ -116,6 +116,9 @@ Lv 10 (MAX): Celestial Bloodlust (15% Lifesteal, $10 Kill Bonus, 2x XP).
 /clanadmin setweek <1-5> - Force change the weekly event category.  
 /clanadmin setweekdebug <1-5> - Bypass real-world days for testing.  
 /clanadmin debugreset - Reset debug to make this skript follow real-world days again  
+/clanadmin forcejoin <player> <clan> - Force a player into a specific clan without needing an invite.  
+/clanadmin forcekick <player> - Forcibly remove a disruptive player from their clan (bypassing leader permissions).  
+/clanadmin disband <clan> - Instantly and completely wipe a clan from the server, kicking all members and resetting their data.
 
 🛡️ SECURE ADMIN AUDIT LOG 🛡️  
 The script features a Passive Audit Trail. All high-value transactions (Buying Totems/End Crystals, Activating Buffs, and Admins giving free points) are secretly logged to plugins/Skript/scripts/clan_premium/audit.log for the Server Owner to review.
