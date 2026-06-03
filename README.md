@@ -98,7 +98,7 @@ Lv 9: Abyssal Efficiency (Haste II, Dolphin's Grace, +5 XP per kill).
 Lv 10 (MAX): Celestial Bloodlust (15% Lifesteal, $10 Kill Bonus, 2x XP).  
 
 📜 COMMAND LIST  
-🔹 Player Commands
+🔹 Player Commands  
 /clan - Opens the Main Interactive GUI.  
 /clan create <name> - Start your clan.  
 /clan top - View the live Weekly Leaderboard.  
