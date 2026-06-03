@@ -8,7 +8,7 @@ Advanced Clan System transforms your server into a highly competitive environmen
   
   
 <img width="457" height="190" alt="Screenshot 2026-06-02 175552" src="https://github.com/user-attachments/assets/b42090bd-e3fd-4bf3-8d7c-eb505adc0ad7" />
-<img width="499" height="223" alt="Screenshot 2026-06-02 175615" src="https://github.com/user-attachments/assets/67746a48-6f55-40ac-8af8-1fd27e6ea9c8" />  
+<img width="499" height="223" alt="Screenshot 2026-06-02 175615" src="https://github.com/user-attachments/assets/67746a48-6f55-40ac-8af8-1fd27e6ea9c8" />
   
 ### 🏆 Dynamic Weekly Contribution Event Engine  
 Clans don't just exist; they compete! 3 Days on every week, the server focuses on a different contribution event to get points:  
@@ -52,7 +52,7 @@ Top Donators (Left): Top 12 members who have converted the most personal points 
   
   
 <img width="800" height="450" alt="2026-06-0218-53-03-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/68d6ab3c-41ba-44db-964c-cbd8adeed711" />
-<img width="800" height="450" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/938fd29a-0018-495d-afe1-cc465071535f" />  
+<img width="800" height="450" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/938fd29a-0018-495d-afe1-cc465071535f" />
   
 ### ⚙️ 100% Configurable In-Game & Built-in Config  
 Players: Can change Clan Tags, Descriptions, Rules, and toggle Friendly Fire directly via an interactive GUI.  
