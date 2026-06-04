@@ -1,6 +1,7 @@
 # Advanced-Clan-System-Premium-Skript  
   
-<img width="1024" height="512" alt="Proyek_Baru_112_7BE30BA" src="https://github.com/user-attachments/assets/5cdbc7be-5fea-4c1c-a019-841b55702640" />  
+<img width="1024" height="512" alt="Proyek_Baru_112_D8BA600" src="https://github.com/user-attachments/assets/22d3ac3d-a86e-4ae5-9766-3d1409150ada" />
+
   
   
 Advanced Clan System transforms your server into a highly competitive environment. With an automated Weekly Event Engine, Global Clan Buffs, a 10-Level Perk System, and a built-in Audit Log for admins, this is the only Clan Skript you will ever need.
