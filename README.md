@@ -54,7 +54,18 @@ Top Donators (Left): Top 12 members who have converted the most personal points 
   
 
 
-  
+### 📦 The Clan Vault (Shared Storage)   
+A powerful Shared Ender Chest for every clan!  
+up to **54 slots** virtual inventory accessible to all members of the same clan.  
+Perfect for pooling resources, sharing extra gear, or safely storing war loot.  
+Admins have full oversight! Use `/clanadmin vault <clan>` to secretly view a clan's vault, or `/clanadmin setvault <clan>` to edit/confiscate items.    
+
+<img width="631" height="265" alt="Screenshot 2026-06-04 135533" src="https://github.com/user-attachments/assets/5921121d-9cac-4aae-8340-72ca508751a9" />
+<img width="565" height="412" alt="Screenshot 2026-06-04 135601" src="https://github.com/user-attachments/assets/e0677645-c490-42b4-8368-042b33e028bf" />
+
+
+
+
 ### ⚙️ 100% Configurable In-Game & Built-in Config  
 Players: Can change Clan Tags, Descriptions, Rules, and toggle Friendly Fire directly via an interactive GUI.  
 Server Owners: Easily change all Buff costs, Shop prices, and Event Point rewards at the very top of the .sk file (No external .yml addons required!).  
@@ -98,7 +109,8 @@ Smart notification: The whole clan is instantly notified via broadcast when the 
 Upgrading the Clan grants permanent passive buffs to all members:  
 Lv 1-2: Passive Night Vision & Jump Boost.  
 Lv 3: Hardened Armor (5% Global Damage Reduction).  
-Lv 4-5: Treasure Hunter (Luck I) & Swift Foot (Speed I).  
+Lv 4: Treasure Hunter (Luck I)
+Lv 5: Swift Foot (Speed I) + Clan Vault Upgrade to 54 Slots!.  
 Lv 6: Flame Guard (Periodic Fire Resistance).  
 Lv 7: Titan's Fortitude (Passive Resistance I & Strength I).  
 Lv 8: Vanguard's Aegis (Absorption III Hearts every 30s).  
